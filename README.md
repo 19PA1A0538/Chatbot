@@ -32,3 +32,7 @@ https://en.m.wikipedia.org/wiki/List_of_current_Indian_chief_ministers
 
 https://www.india.gov.in/my-government/whos-who/governors
 
+https://www.careerpower.in/states-and-capitals-of-india.html
+
+
+
