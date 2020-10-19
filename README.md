@@ -27,4 +27,8 @@ https://youtu.be/imnF3U00NOI
 Block diagram:
 ![Screenshot_2020-10-18-20-02-11-74](https://user-images.githubusercontent.com/60499520/96371222-45d3ec00-117e-11eb-9d8a-fe4a67d152c0.png)
 
+Information collected from:
+https://en.m.wikipedia.org/wiki/List_of_current_Indian_chief_ministers
+
+https://www.india.gov.in/my-government/whos-who/governors
 
